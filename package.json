@@ -1,0 +1,23 @@
+{
+  "name": "react-native-peiwen-screen-helper",
+  "version": "1.0.0",
+  "description": "A library to help you design your react-native app for the iOS(X) and android",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bingfeng1225/react-native-peiwen-screen-helper.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "iphone-x",
+    "style",
+    "screen",
+    "stylesheet"
+  ],
+  "author": "peiwen",
+  "license": "MIT",
+  "homepage": "https://github.com/bingfeng1225/react-native-peiwen-screen-helper#readme"
+}
