@@ -3,9 +3,9 @@
 import {PixelRatio, Dimensions, Platform} from 'react-native';
 
 //像素密度
-const BASE_SCALE = 2;
-const BASE_WIDTH = 750 / BASE_SCALE;
-const BASE_HEIGHT = 1334 / BASE_SCALE;
+export let BASE_SCALE = 2;
+export let BASE_WIDTH = 750 / BASE_SCALE;
+export let BASE_HEIGHT = 1334 / BASE_SCALE;
 
 export const SCREEN_SCALE = PixelRatio.get();
 export const SCREEN_WIDTH = Dimensions.get('window').width;
