@@ -23,6 +23,10 @@ export function scale(size: Number,fixWidth = true) {
     return Math.ceil(size * scale) / BASE_SCALE;
 }
 
+export function px2dp(size: Number) {
+    return size / SCREEN_SCALE;
+}
+
 export function isIphone() {
     return (
         Platform.OS === 'ios' &&
