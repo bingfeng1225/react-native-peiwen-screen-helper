@@ -1,6 +1,6 @@
 {
   "name": "react-native-peiwen-screen-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A library to help you design your react-native app for the iOS(X) and android",
   "main": "index.js",
   "repository": {
